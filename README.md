@@ -1,2 +1,5 @@
-# mtc-data-science-dev
-data-science | This is a repository for the MTC Terraform code example | Language: Python
+# Python Developer Repository
+
+### Environment: data-science
+
+Created by: ChrisSamHarris
